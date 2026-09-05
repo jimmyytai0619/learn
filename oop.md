@@ -69,3 +69,19 @@ Machine m1 = new Machine();
 Machine       → Class / type
 m1            → reference variable
 new Machine() → Object
+
+——————————————
+extends
+↓
+“我是你的孩子，我继承你的东西”
+
+implements
+↓
+“我遵守你的规则，我保证有这些功能”
+
+|     | Inheritance        | Interface             |
+| --- | ------------------ | --------------------- |
+| 关键词 | `extends`          | `implements`          |
+| 意思  | 继承别人               | 遵守规则                  |
+| 例子  | Dog extends Animal | Dog implements Animal |
+| 重点  | **拿到父 Class 的东西**  | **必须提供规定的功能**         |
