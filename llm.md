@@ -12,3 +12,8 @@ exp: one prompt two outcome, ** user want to unsubscribe but sometimes yes and s
 
 4. lost in the middle
 exp: context too long
+
+-------------------
+
+好prompt 
+对象 x 格式 x 重点
